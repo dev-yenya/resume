@@ -53,6 +53,8 @@ Android Develeoper
 - 일정 알림 기능 구현
 - 모임 일정 확정 기능 구현
 
+<br>
+
 ### [Treevial](https://www.notion.so/Treevial-2cc22d792505466199f984ac7856b0ef?pvs=21)
 
 `Android`, `React Native`, `React Native Paper`
@@ -68,6 +70,8 @@ BM & Android Developer
 - 숲 조성 사업 펀딩 및 사업 소개 페이지 구현
 - 비즈니스 모델 구체화 및 기획서 작성
 - 신규 팀원이 팀 방향성에 적응할 수 있도록 효율적으로 돕는 업무 요청 프로세스 가이드 문서 작성 및 협업 툴(Jira, Slack) 교육을 진행
+
+<br>
 
 ### [Remember+all](https://www.notion.so/REMEMBER-ALL-19b35d911b744c2ebb87eade97fffef6?pvs=21)
 
@@ -87,6 +91,8 @@ PO
 - Kakao API 기반 소셜 로그인, 이메일 기반 로그인, 회원가입, 인증번호 이메일 인증,  닉네임 수정, 비밀번호 수정, 탈퇴 기능 구현
 - 공공데이터 API 통신 기능. Kakao Map API를 활용하여 위치 기반 여행지 검색 및 추천 기능 구현
 
+<br>
+
 ### [자연어 질의 기반 부동산 환경 검색 시스템 구현](http://ki-it.com/_PR/view/?aidx=34777&bidx=3124)
 
 `Python`, `KeyBert`, `Random Forest`
@@ -98,6 +104,8 @@ URP
 2022.02 - 2022.11(9개월)
 
 - 한국정보기술학회(JKIIT) KCI 학술논문 게재(제 1 저자)
+
+<br>
 
 ### [9Gong9](https://www.notion.so/9Gong9-78d8e347bc4b42b8a644c2859ce52aa5?pvs=21)
 
