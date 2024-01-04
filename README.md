@@ -134,6 +134,8 @@ Android Lead
 - SUAPC 2022 Winter, SUAPC 2022 Summer 개최
 - Kakao, JetBrains, SK DEVOTION 기업 후원 컨택 및 관리
 
+  <br>
+
 ### [Solux](https://sm-solux.dev/)
 
 숙명여자대학교 프로그래밍 프로젝트 중앙동아리
