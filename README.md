@@ -9,7 +9,7 @@
 - GitHub.  [https://github.com/dev-yenya](https://github.com/dev-yenya)
 - Portfolio. [https://notion.dev-yenya](https://dev-yenya.notion.site/)
 - LinkedIn. [https://www.linkedin.com/in/yena-park-774819261/](https://www.linkedin.com/in/yena-park-774819261/)
-
+ 
 <br>
 
 ## Career
